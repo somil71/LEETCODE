@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/somil71/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/somil71/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
