@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/somil71/LEETCODE/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/somil71/LEETCODE/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/somil71/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/somil71/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
@@ -25,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/somil71/LEETCODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/somil71/LEETCODE/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/somil71/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
