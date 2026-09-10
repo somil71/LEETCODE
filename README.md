@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/somil71/LEETCODE/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0925-long-pressed-name](https://github.com/somil71/LEETCODE/tree/master/0925-long-pressed-name) |
+## String
+|  |
+| ------- |
+| [0925-long-pressed-name](https://github.com/somil71/LEETCODE/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
