@@ -38,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0824-goat-latin](https://github.com/somil71/LEETCODE/tree/master/0824-goat-latin) |
 | [0925-long-pressed-name](https://github.com/somil71/LEETCODE/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
