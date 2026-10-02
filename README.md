@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/somil71/LEETCODE/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/somil71/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/somil71/LEETCODE/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/somil71/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/somil71/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/somil71/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0925-long-pressed-name](https://github.com/somil71/LEETCODE/tree/master/0925-long-pressed-name) |
 ## String
 |  |
