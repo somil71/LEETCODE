@@ -40,6 +40,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/somil71/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0824-goat-latin](https://github.com/somil71/LEETCODE/tree/master/0824-goat-latin) |
 | [0925-long-pressed-name](https://github.com/somil71/LEETCODE/tree/master/0925-long-pressed-name) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/somil71/LEETCODE/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/somil71/LEETCODE/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/somil71/LEETCODE/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
