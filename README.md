@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/somil71/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/somil71/LEETCODE/tree/master/0061-rotate-list) |
 | [0925-long-pressed-name](https://github.com/somil71/LEETCODE/tree/master/0925-long-pressed-name) |
 ## String
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/somil71/LEETCODE/tree/master/0402-remove-k-digits) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/somil71/LEETCODE/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
